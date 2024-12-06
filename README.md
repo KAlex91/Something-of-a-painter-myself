@@ -1,5 +1,7 @@
 # I’m Something of a Painter Myself - Simple Monet image style transfer using Pytorch
 
+This is a simple project with the goal of transfering the style of Monet's works of art to any other image. The training data was provided by Kaggle's competition "I'm something of a painter myself".
+
 Objectives
 
 Minimize Content Loss: The difference between the target image and the content image.
