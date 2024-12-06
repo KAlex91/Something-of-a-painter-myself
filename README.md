@@ -1,4 +1,4 @@
-# I’m Something of a Painter Myself - Simple Monet style image transfer using Pytorch
+# I’m Something of a Painter Myself - Simple Monet image style transfer using Pytorch
 
 Objectives
 
